@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm ECE Graduate. <br>I have intern level experience in Full Stack Developer.<br>I'm Looking for Opportunity to develope my skills and real world Experience.<br>
+I'm Full Stack & ECE Graduate🎓. <br>I have experience in develope the Website/Web applications for small & Medium scale Industries.<br>I'm Looking for Opportunity to develope my skills and real world Experience.<br>
 
 
 ## 🌐 Socials:
